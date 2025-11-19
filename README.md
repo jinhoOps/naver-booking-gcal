@@ -1,6 +1,7 @@
 # Naver Booking → Google Calendar Helper
-네이버 예약은 구글캘린더 연동이 안되서 만든 확장프로그램입니다.
-네이버 예약 상세/공유 페이지에서 예약 정보를 자동으로 추출해  
+
+네이버 예약은 구글캘린더 연동이 안되서 만든 확장프로그램입니다.  
+네이버 예약 상세/공유 페이지에서 예약 정보를 자동으로 추출해
 원클릭으로 Google Calendar 일정 생성 화면을 열어주는 도구입니다.
 
 ## 주요 기능
@@ -12,7 +13,8 @@
 - 가벼운 플로팅 버튼 + 확인 팝업 UI 제공
 
 ## 설치 방법 (Chrome 개발자 모드)
-*언젠가는 Chrome Web Store에 올릴 예정…*
+
+_언젠가는 Chrome Web Store에 올릴 예정…_
 
 1. 이 저장소를 다운로드(zip)하거나 `git clone` 합니다.
 2. Chrome 주소창에 `chrome://extensions` 입력

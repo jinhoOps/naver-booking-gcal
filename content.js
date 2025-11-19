@@ -5,7 +5,9 @@
     const url = window.location.href;
     return (
       url.includes("booking.naver.com/my/share/bookings/") ||
-      url.includes("booking.naver.com/my/bookings/")
+      url.includes("booking.naver.com/my/bookings/") ||
+      url.includes("m.booking.naver.com/my/share/bookings/") ||
+      url.includes("m.booking.naver.com/my/bookings/")
     );
   };
 
