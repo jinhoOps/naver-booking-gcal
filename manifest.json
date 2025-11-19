@@ -27,7 +27,9 @@
     {
       "matches": [
         "https://booking.naver.com/my/share/bookings/*",
-        "https://booking.naver.com/my/bookings/*"
+        "https://booking.naver.com/my/bookings/*",
+        "https://m.booking.naver.com/my/share/bookings/*",
+        "https://m.booking.naver.com/my/bookings/*"
       ],
       "js": [
         "content.js"

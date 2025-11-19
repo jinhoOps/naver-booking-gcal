@@ -22,13 +22,14 @@ _언젠가는 Chrome Web Store에 올릴 예정…_
 4. 왼쪽 상단 **압축 해제된 확장프로그램을 로드** 클릭
 5. 프로젝트 폴더 선택
 6. 네이버 예약 페이지에 들어가면 우하단에 **📅** 버튼이 나타납니다.
-   
+
 설치가 정상적으로 완료되면 아래와 같은 화면이 나타납니다.
+
 ### 설치 성공 화면 예시
 
 우측 하단 아이콘 누르면 팝업 표시됩니다.  
 <img width="1532" alt="extension-loaded" src="https://github.com/user-attachments/assets/85fd3d6f-b1af-4c90-a51f-54f9ff042055">  
-<img width="474" alt="extension-list" src="https://github.com/user-attachments/assets/82fd9d7e-2136-4145-aa5f-b7f0600a8ec9">  
+<img width="474" alt="extension-list" src="https://github.com/user-attachments/assets/82fd9d7e-2136-4145-aa5f-b7f0600a8ec9">
 
 ## 사용 방법
 
@@ -41,6 +42,8 @@ _언젠가는 Chrome Web Store에 올릴 예정…_
 
 - https://booking.naver.com/my/share/bookings/XXXXXXXX
 - https://booking.naver.com/my/bookings/XXXXXXXX
+- https://m.booking.naver.com/my/share/bookings/XXXXXXXX
+- https://m.booking.naver.com/my/bookings/XXXXXXXX
 
 ## 제한 사항
 
