@@ -10,17 +10,17 @@
     "https://booking.naver.com/*"
   ],
   "icons": {
-    "16": "icon_16.png",
     "32": "icon_32.png",
     "48": "icon_48.png",
-    "128": "icon_128.png"
+    "128": "icon_128.png",
+    "256": "icon_256.png"
   },
   "action": {
     "default_icon": {
-      "16": "icon.svg",
       "32": "icon.svg",
       "48": "icon.svg",
-      "128": "icon.svg"
+      "128": "icon.svg",
+      "256": "icon.svg"
     }
   },
   "content_scripts": [
