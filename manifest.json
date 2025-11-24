@@ -15,14 +15,6 @@
     "128": "icon_128.png",
     "256": "icon_256.png"
   },
-  "action": {
-    "default_icon": {
-      "32": "icon.svg",
-      "48": "icon.svg",
-      "128": "icon.svg",
-      "256": "icon.svg"
-    }
-  },
   "content_scripts": [
     {
       "matches": [
